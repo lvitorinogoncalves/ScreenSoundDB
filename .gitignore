@@ -1,52 +1,50 @@
-# Prerequisites
-*.d
+# Build folders
+bin/
+obj/
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+# Rider
+.idea/
+*.sln.iml
+*.DotSettings.user
+.idea.*
 
-# Linker output
-*.ilk
-*.map
-*.exp
+# VS Code (caso use também)
+.vscode/
 
-# Precompiled Headers
-*.gch
-*.pch
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
+# Auto-generated files
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+*.cache
+*.dbmdl
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.vsix
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+# Others
+*.DS_Store
+*.swp
+*.bak
+*.tmp
+*.orig
+*.rej
+*.sdf
+*.sqlite
+*.sqlite3
 
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# Logs
+*.log
+logs/
