@@ -1,0 +1,15 @@
+/Users/lvitorinogoncalves/Documents/Estudos/C#/ScreenSound-DB/bin/Debug/net8.0/ScreenSound-DB
+/Users/lvitorinogoncalves/Documents/Estudos/C#/ScreenSound-DB/bin/Debug/net8.0/ScreenSound-DB.deps.json
+/Users/lvitorinogoncalves/Documents/Estudos/C#/ScreenSound-DB/bin/Debug/net8.0/ScreenSound-DB.runtimeconfig.json
+/Users/lvitorinogoncalves/Documents/Estudos/C#/ScreenSound-DB/bin/Debug/net8.0/ScreenSound-DB.dll
+/Users/lvitorinogoncalves/Documents/Estudos/C#/ScreenSound-DB/bin/Debug/net8.0/ScreenSound-DB.pdb
+/Users/lvitorinogoncalves/Documents/Estudos/C#/ScreenSound-DB/obj/Debug/net8.0/ScreenSound-DB.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lvitorinogoncalves/Documents/Estudos/C#/ScreenSound-DB/obj/Debug/net8.0/ScreenSound-DB.AssemblyInfoInputs.cache
+/Users/lvitorinogoncalves/Documents/Estudos/C#/ScreenSound-DB/obj/Debug/net8.0/ScreenSound-DB.AssemblyInfo.cs
+/Users/lvitorinogoncalves/Documents/Estudos/C#/ScreenSound-DB/obj/Debug/net8.0/ScreenSound-DB.csproj.CoreCompileInputs.cache
+/Users/lvitorinogoncalves/Documents/Estudos/C#/ScreenSound-DB/obj/Debug/net8.0/ScreenSound-DB.dll
+/Users/lvitorinogoncalves/Documents/Estudos/C#/ScreenSound-DB/obj/Debug/net8.0/refint/ScreenSound-DB.dll
+/Users/lvitorinogoncalves/Documents/Estudos/C#/ScreenSound-DB/obj/Debug/net8.0/ScreenSound-DB.pdb
+/Users/lvitorinogoncalves/Documents/Estudos/C#/ScreenSound-DB/obj/Debug/net8.0/ScreenSound-DB.genruntimeconfig.cache
+/Users/lvitorinogoncalves/Documents/Estudos/C#/ScreenSound-DB/obj/Debug/net8.0/ref/ScreenSound-DB.dll
+/Users/lvitorinogoncalves/Documents/Estudos/C#/ScreenSound-DB/obj/Debug/net8.0/ScreenSound-DB.csproj.AssemblyReference.cache
